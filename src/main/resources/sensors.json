@@ -1,0 +1,26 @@
+[
+  {
+    "id": "T-01",
+    "type": "TEMPERATURE",
+    "location": "Living Room",
+    "value": 24.5
+  },
+  {
+    "id": "M-01",
+    "type": "MOTION",
+    "location": "Hall",
+    "value": 0
+  },
+  {
+    "id": "S-01",
+    "type": "SMOKE",
+    "location": "Kitchen",
+    "value": 0
+  },
+  {
+    "id": "W-01",
+    "type": "WATER_LEAK",
+    "location": "Bathroom",
+    "value": 0
+  }
+]
